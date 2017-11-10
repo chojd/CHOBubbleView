@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CHOBubbleView_Example' do
+  pod 'CHOBubbleView', :path => '../'
+
+  target 'CHOBubbleView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
