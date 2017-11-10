@@ -1,0 +1,6 @@
+framework module CHOBubbleView {
+  umbrella header "CHOBubbleView-umbrella.h"
+
+  export *
+  module * { export * }
+}

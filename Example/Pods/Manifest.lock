@@ -1,0 +1,16 @@
+PODS:
+  - CHOBubbleView (0.1.0)
+
+DEPENDENCIES:
+  - CHOBubbleView (from `../`)
+
+EXTERNAL SOURCES:
+  CHOBubbleView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CHOBubbleView: d53d2553b3025fe3187d34c3867fa6a9d004cdbe
+
+PODFILE CHECKSUM: 1858b07486733091c9ef14792c5669a6a577ec33
+
+COCOAPODS: 1.4.0.beta.2

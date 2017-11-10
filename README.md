@@ -22,7 +22,7 @@ pod 'CHOBubbleView'
 
 ## Author
 
-chojd, jingda.cao@mfashion.com.cn
+Gene, jingda.cao@gmail.com
 
 ## License
 
